@@ -1,6 +1,4 @@
 ## Shallot Damary | Cybersecurity Analyst
-
- 🔐 Cybersecurity Analyst | Future Information Security & Digital Forensics Specialist
  
 - 🚀 Building a strong foundation in threat detection, network defense, incident response, and cyber risk management through hands-on labs, certifications, and projects.
 

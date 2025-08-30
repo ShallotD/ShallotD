@@ -1,4 +1,4 @@
-## Hola, I'm Shallot Damary 😄👋
+Shallot Damary | Cybersecurity Analyst
 
  🔐 Cybersecurity Analyst | Future Information Security & Digital Forensics Specialist
  

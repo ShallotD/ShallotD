@@ -1,6 +1,8 @@
 ## Shallot Damary | Cybersecurity Analyst
+
+ -Threat Detection -Network Defense -Incident Response -Cyber Risk Management
  
-- 🚀 Building a strong foundation in threat detection, network defense, incident response, and cyber risk management through hands-on labs, certifications, and projects.
+ 🚀 Building a strong foundation in threat detection, network defense, incident response, and cyber risk management through hands-on labs, certifications, and projects.
 
 🌱 Currently exploring:
 

@@ -1,4 +1,4 @@
-Shallot Damary | Cybersecurity Analyst
+## Shallot Damary | Cybersecurity Analyst
 
  🔐 Cybersecurity Analyst | Future Information Security & Digital Forensics Specialist
  

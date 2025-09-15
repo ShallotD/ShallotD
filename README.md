@@ -4,7 +4,8 @@
  
  🚀 Building a strong foundation in threat detection, network defense, incident response, and cyber risk management through hands-on labs, certifications, and projects.
 
-🌱 Currently exploring:
+
+ **🌱 Currently exploring:**
 
 - 🔍 Penetration Testing & Vulnerability Management
 
@@ -12,7 +13,8 @@
 
 - 🧩 Digital Forensics & Malware Analysis
 
-💡 Portfolio Highlights:
+
+**💡 Portfolio Highlights:**
 
 - 🔭 Documenting real-world labs and simulations from platforms like TryHackMe, Hack The Box, and PortSwigger Academy.
 
@@ -20,7 +22,9 @@
 
 - 📚 Curating a learning path toward InfoSec certifications (CompTIA Security+, CEH, OSCP).
 
-🤝 Open to:
+
+
+**🤝 Open to:**
 
 - 🔓 Collaborating on open-source cybersecurity projects
 
@@ -29,10 +33,11 @@
 💬 Tech Stack:
 • Python • Linux • Wireshark • Burp Suite • Nmap • Metasploit
 
-📫 Connect with me:
-Twitter
- | LinkedIn
- | Email
+
+**📫 Connect with me:**
+Twitter | LinkedIn | Email
+
+
 
 
 

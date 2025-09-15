@@ -1,4 +1,4 @@
-## Shallot Damary | Cybersecurity Analyst
+## Shallot Damary | Cyber Security Analyst
 
  •Threat Detection •Network Defense •Incident Response •Cyber Risk Management
  
@@ -30,11 +30,14 @@
 
 - 📖 Knowledge sharing, mentoring, and community building
 
-💬 Tech Stack:
+
+**💬 Tech Stack:**
+
 • Python • Linux • Wireshark • Burp Suite • Nmap • Metasploit
 
 
 **📫 Connect with me:**
+
 Twitter | LinkedIn | Email
 
 

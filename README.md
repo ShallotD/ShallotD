@@ -1,47 +1,50 @@
 ## Shallot Damary | Cyber Security Analyst
 
- •Threat Detection •Network Defense •Incident Response •Cyber Risk Management
- 
- 🚀 Building a strong foundation in threat detection, network defense, incident response, and cyber risk management through hands-on labs, certifications, and projects.
+Hello, I’m Shallot. I am a detail-oriented Cybersecurity Analyst focused on protecting digital infrastructures. My passion is in digital forensics and incident response, from investigating malware and phishing to building tools that make investigations faster and more effective. Currently, working towards completing my MSc Information Security and Digital Forensics at University of East London.
 
-
- **🌱 Currently exploring:**
-
-- 🔍 Penetration Testing & Vulnerability Management
-
-- 🛡️ Cloud Security & Governance
-
-- 🧩 Digital Forensics & Malware Analysis
-
-
-**💡 Portfolio Highlights:**
-
-- 🔭 Documenting real-world labs and simulations from platforms like TryHackMe, Hack The Box, and PortSwigger Academy.
-
-- 🧰 Sharing security tools, scripts, and automation projects that strengthen cyber defense.
-
-- 📚 Curating a learning path toward InfoSec certifications (CompTIA Security+, CEH, OSCP).
-
-
-
-**🤝 Open to:**
-
-- 🔓 Collaborating on open-source cybersecurity projects
-
-- 📖 Knowledge sharing, mentoring, and community building
-
-
-**💬 Tech Stack:**
-
-• Python • Linux • Wireshark • Burp Suite • Nmap • Metasploit
-
-
-**📫 Connect with me:**
-
-Twitter | LinkedIn | Email
+I enjoy turning investigations into clear case studies that show not just the process, but the results. This GitHub is a portfolio of my hands-on security projects, each one designed to reflect real-world challenges and how I approach solving them.
 
 
 
 
+## Tools and Techniques I Use
 
+**Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
+
+**SOC/Monitoring:** Splunk, Wireshark, Wazuh
+
+**Cloud Security:** AWS CloudTrail, IAM, GuardDuty
+
+**Threat Intelligence:** MITRE ATT&CK, YARA, OSINT
+
+**Programming & Automation:** Python, PowerShell, Bash
+
+
+
+## Featured Projects
+
+Here are some highlights of my hands-on work, demonstrating my analytical process and technical skills.
+
+Finalizing on documentations
+
+
+
+## Credentials
+
+
+*   CompTIA Security+ (in-view)
+*   Cisco Junior Cybersecurity Analyst
+*   Microsoft Azure Administrator Associate Certificate
+*   Microsoft Security, Compliance & Identity Fundamentals Certificate
+*   Cybersecurity & Emerging Technologies Awareness Certificate
+
+
+
+
+## Connect With Me
+
+I am always open to discussing new opportunities and connecting with other professionals in the security community.
+
+*   **[LinkedIn Profile](https://www.linkedin.com/in/shallot-damary/)**
+*   
 

@@ -48,6 +48,25 @@ Technologies I Work With
 Cybersecurity & Digital Forensics Tools
 ## 🔐 Cybersecurity & Digital Forensics Tools
 
+![Autopsy](https://img.shields.io/badge/Autopsy-5B3A70?style=for-the-badge&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-0078D4?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-E67E22?style=for-the-badge&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-8E44AD?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-B3261E?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-E67E22?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FFB000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
+
+
+
+## 🔐 Cybersecurity & Digital Forensics Tools
+
 ![Autopsy](https://img.shields.io/badge/Autopsy-2F2F2F?style=for-the-badge&logo=autopsy&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-2F2F2F?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-2F2F2F?style=for-the-badge)
@@ -60,27 +79,6 @@ Cybersecurity & Digital Forensics Tools
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
-
-
-
-
-![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-blue?style=for-the-badge)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Digital%20Forensics-red?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-Memory%20Forensics-orange?style=for-the-badge)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-purple?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Threat%20Framework-red?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Cloud%20Monitoring-orange?style=for-the-badge)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Identity%20%26%20Access%20Management-yellow?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
-
 
 
 <h1>LinkedIn Profile</h1>

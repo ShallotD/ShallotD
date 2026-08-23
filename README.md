@@ -21,7 +21,7 @@ I am particularly interested in the intersection between software development an
 Overall, I am excited about the future of technology and the role I can play in building, securing, and improving digital systems.
 
 
-##Technologies I Work With
+Technologies I Work With
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,26 @@ Overall, I am excited about the future of technology and the role I can play in 
 
 
 
-##Cybersecurity & Digital Forensics Tools
+Cybersecurity & Digital Forensics Tools
+## 🔐 Cybersecurity & Digital Forensics Tools
+
+![Autopsy](https://img.shields.io/badge/Autopsy-2F2F2F?style=for-the-badge&logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2F2F2F?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-2F2F2F?style=for-the-badge)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-2F2F2F?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2F2F2F?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
+
+
+
 
 ![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-blue?style=for-the-badge)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Digital%20Forensics-red?style=for-the-badge)
@@ -71,122 +90,4 @@ https://www.linkedin.com/in/shallot-damary
 ```
 
 
-
 <img src="img/code.gif" width="100%" height="200">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Shallot Damary | Cyber Security Analyst
-
-Hello, I’m Shallot. I am a detail-oriented Cybersecurity Analyst focused on protecting digital infrastructures. My passion is in digital forensics and incident response, from investigating malware and phishing to building tools that make investigations faster and more effective. Currently, working towards completing my MSc Information Security and Digital Forensics at University of East London.
-
-I enjoy turning investigations into clear case studies that show not just the process, but the results. This GitHub is a portfolio of my hands-on security projects, each one designed to reflect real-world challenges and how I approach solving them.
-
-
-
-
-## Tools and Techniques I Use
-
-**Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
-
-**SOC/Monitoring:** Splunk, Wireshark, Wazuh
-
-**Cloud Security:** AWS CloudTrail, IAM, GuardDuty
-
-**Threat Intelligence:** MITRE ATT&CK, YARA, OSINT
-
-**Programming & Automation:** Python, PowerShell, Bash
-
-
-
-## Featured Projects
-
-Here are some highlights of my hands-on work, demonstrating my analytical process and technical skills.
-
-Finalizing on documentations
-
-
-
-## Credentials
-
-
-*   CompTIA Security+ (in-view)
-*   Cisco Junior Cybersecurity Analyst
-*   Microsoft Azure Administrator Associate Certificate
-*   Microsoft Security, Compliance & Identity Fundamentals Certificate
-*   Cybersecurity & Emerging Technologies Awareness Certificate
-
-
-
-
-## Connect With Me
-
-I am always open to discussing new opportunities and connecting with other professionals in the security community.
-
-*   **[LinkedIn Profile](https://www.linkedin.com/in/shallot-damary/)**
-*   
-

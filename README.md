@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0000FF&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Shallot+Damary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0000FF&vCenter=true&width=1000&height=60&lines=Hey++%F0%9F%91%8B+I+am+Shallot+Damary)](https://git.io/typing-svg)
 
 
 
@@ -8,9 +8,9 @@
   
 Welcome to my GitHub page!
 
-My name is Shallot Damary, and I am a Full-Stack Developer and Cybersecurity Analyst from Kenya with a deep passion for building technology, solving complex problems creatively, and understanding how systems can be protected against security threats.
+My name is Shallot Damary, and I am a Full-Stack Developer and Cybersecurity Analyst from Kenya with a passion for building technology, solving complex problems, and understanding how systems can be protected against security threats.
 
-With my constantly growing skill set, I am able to work across both the front-end and back-end of web applications, giving me a diverse range of technical abilities. I believe that understanding how software is built makes me better at understanding how it can be attacked, secured, monitored, and investigated.
+With my constantly growing skill set across both front-end and back-end development, I enjoy building and understanding web applications from both a development and security perspective.I believe that understanding how software is built makes me better at understanding how it can be attacked, secured, monitored, and investigated.
 
 What I enjoy most about software development is the opportunity to constantly learn and adapt to new technologies. This keeps me motivated to stay up to date with the latest trends, tools, and best practices in the industry.
 

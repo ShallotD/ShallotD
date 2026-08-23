@@ -44,9 +44,7 @@ Technologies I Work With
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
-Cybersecurity & Digital Forensics Tools
-## 🔐 Cybersecurity & Digital Forensics Tools
+Cybersecurity Tools & Technologies
 
 ![Autopsy](https://img.shields.io/badge/Autopsy-5B3A70?style=for-the-badge&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-0078D4?style=for-the-badge&logoColor=white)
@@ -62,30 +60,9 @@ Cybersecurity & Digital Forensics Tools
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
-
-
-
-## 🔐 Cybersecurity & Digital Forensics Tools
-
-![Autopsy](https://img.shields.io/badge/Autopsy-2F2F2F?style=for-the-badge&logo=autopsy&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-2F2F2F?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-2F2F2F?style=for-the-badge)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-2F2F2F?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2F2F2F?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
 <h1>LinkedIn Profile</h1>
 
 ```md
 https://www.linkedin.com/in/shallot-damary
 ```
 
-
-<img src="img/code.gif" width="100%" height="200">

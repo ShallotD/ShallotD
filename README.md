@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0B1F3A&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Shallot+Damary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E3A8A&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Shallot+Damary)](https://git.io/typing-svg)
 
 
 
